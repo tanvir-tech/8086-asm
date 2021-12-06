@@ -19,6 +19,13 @@ main proc\
               
     
     
+    ;new line
+    ;newline
+    mov ah,1
+    mov dl,10
+    int 21h
+    mov dl,13
+    int 21h
     
     
     
