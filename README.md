@@ -1,4 +1,8 @@
 # 8086 assembly code
+## cheat sheet
+- https://cheatography.com/mika56/cheat-sheets/asm-8086/pdf/
+
+
 
 
 .model small\
