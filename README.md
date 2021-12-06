@@ -4,7 +4,7 @@
 ### template
 
 .model small\
-.stack 100h \
+.stack 100h 
 
 .data\
 a db 'Lower case $'\
