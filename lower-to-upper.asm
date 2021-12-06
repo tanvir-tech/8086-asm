@@ -32,7 +32,7 @@ main proc
     int 21h
     
     
-    ;convert
+    ;convert LOWER to UPPER
     sub bl,32
               
               
